@@ -2,10 +2,10 @@
 
 Installation
 
-Download ZIP
+1. Download ZIP
 
-Upload to your wordpress plugins
+2. Upload to your wordpress plugins
 
-Activate
+3. Activate
 
-use shortcode [pskalski_todo] in place where you want to display your to do list.
+4. Use shortcode [pskalski_todo] in place where you want to display your to do list.
